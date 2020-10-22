@@ -146,3 +146,7 @@ $RECYCLE.BIN/
 
 ### Less ###
 *.css
+
+
+### Own ###
+node_modules/
